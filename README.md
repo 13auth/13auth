@@ -30,6 +30,7 @@
 
 | Repository | Focus |
 |---|---|
+| [**13auth.com**](https://github.com/13auth/13auth.com) | Official pre-launch homepage and public brand surface |
 | [**tr-network-freedom-suite**](https://github.com/13auth/tr-network-freedom-suite) | Diagnostic-first Windows network freedom toolkit for DNS/DPI troubleshooting |
 | [**13auth**](https://github.com/13auth/13auth) | Profile, brand direction and public build map |
 
