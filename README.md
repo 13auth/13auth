@@ -26,13 +26,6 @@
 | **Automation systems** | Repeatable workflows connected to real operations | CRM flows, reporting, alerts, back-office tools |
 | **Operational dashboards** | Clear state, controls and evidence for business owners | admin panels, monitoring, QA views, reports |
 
-## Current public work
-
-| Repository | Focus |
-|---|---|
-| [**13auth.com**](https://github.com/13auth/13auth.com) | Official pre-launch homepage and public brand surface |
-| [**13auth**](https://github.com/13auth/13auth) | Profile, brand direction and public build map |
-
 > Private/local projects stay off the showcase until they are safe, useful and clean enough to publish.
 
 ## Operating philosophy
