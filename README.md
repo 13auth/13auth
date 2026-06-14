@@ -2,83 +2,58 @@
 
 # 13AUTH
 
-### Software products, apps, automation systems and digital growth tools
+**Practical software, shipped solo.**
 
-13auth builds practical software for real business workflows: SaaS products, web apps, Windows/Android tools, automation systems, dashboards and growth infrastructure.
+SaaS · Windows & Android apps · automation · operator dashboards
 
-[![Products](https://img.shields.io/badge/Products-SaaS%20%2B%20Apps-111827?style=for-the-badge)](#)
-[![Automation](https://img.shields.io/badge/Automation-Workflows%20%2B%20Systems-2563eb?style=for-the-badge)](#)
-[![Growth](https://img.shields.io/badge/Growth-SEO%20%2B%20Lead%20Systems-16a34a?style=for-the-badge)](#)
-[![Dashboards](https://img.shields.io/badge/Dashboards-Operator%20Control-7c3aed?style=for-the-badge)](#)
-[![Turkey](https://img.shields.io/badge/Based%20in-Turkey-e11d48?style=for-the-badge)](#)
+*A one-person software brand by Batuhan Demirbilek — based in Turkey 🇹🇷*
+
+[![Web](https://img.shields.io/badge/web-13auth.com-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://13auth.com)
+[![X](https://img.shields.io/badge/X-@13auth-111827?style=flat-square&logo=x&logoColor=white)](https://x.com/13auth)
+[![GitHub](https://img.shields.io/badge/GitHub-@13auth-111827?style=flat-square&logo=github)](https://github.com/13auth)
 
 </div>
 
 ---
 
-## What we build
+## What I build
 
-| Track | Focus | Output |
-|---|---|---|
-| **SaaS / Web products** | Sharp software for urgent business and operator problems | dashboards, portals, internal tools |
-| **Apps** | Windows, Android, PWA and mobile-first products | media apps, utility apps, customer tools |
-| **SEO / growth systems** | Search-driven acquisition and conversion infrastructure | programmatic SEO, landing pages, funnels |
-| **Automation systems** | Repeatable workflows connected to real operations | CRM flows, reporting, alerts, back-office tools |
-| **Operational dashboards** | Clear state, controls and evidence for business owners | admin panels, monitoring, QA views, reports |
+13auth is where I ship practical tools for real workflows — working software,
+not demos or boilerplate. One person, focused delivery across a few tracks:
 
-> Private/local projects stay off the showcase until they are safe, useful and clean enough to publish.
+- **SaaS / web** — dashboards, portals and internal tools for specific painful workflows
+- **Apps** — Windows, Android and PWA utilities and media apps
+- **Automation** — repeatable back-office workflows: reporting, alerts, CRM flows
+- **Dashboards** — visible state, controls and QA evidence for operators
 
-## Operating philosophy
+> Want to see the actual work? It's in the **repositories** below — shown there, not narrated here.
+
+## How I work
 
 ```text
-Find pain      -> look for real operator or buyer pressure
-Prototype      -> build the smallest useful version fast
-Instrument     -> add logs, dashboards, QA evidence and rollback paths
-Automate       -> automate only after the workflow is visible
-Package        -> turn the working system into a product, service or reusable asset
+Find real pain  ->  ship the smallest useful version  ->  instrument it
+(logs, QA evidence, rollback)  ->  automate once it's visible  ->  keep what proves useful
 ```
 
-## Build principles
+Operator-first and honest: clear scope, visible progress, maintainable code —
+no private data in public repos, no half-finished showcases.
 
-- Practical software first: working tools, real workflows and measurable outcomes beat demos
-- Broad brand, focused delivery: SaaS, apps, SEO, automation and dashboards can live under one roof
-- Operator-first: logs, controls, reports and rollback paths are part of the product
-- Clean public work: no private data, no half-finished showcases, no noisy repo dumping
-- Fast validation: ship small, test demand, keep what proves useful
-- Trust through execution: clear scope, visible progress, maintainable code and verifiable results
-
-## Tech stack
-
-<div align="center">
+## Tech
 
 ![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite)
+![C++](https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp)
 ![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin)
-![C Sharp](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite)
 ![Android](https://img.shields.io/badge/Android-111827?style=flat-square&logo=android)
 ![Windows](https://img.shields.io/badge/Windows-111827?style=flat-square&logo=windows)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions)
-
-</div>
-
-## Signal map
-
-```text
-SaaS / apps       -> productized tools for specific painful workflows
-SEO / growth      -> search demand, landing pages, lead capture and conversion systems
-Automation        -> repeatable operations, reports, alerts and business workflows
-Dashboards        -> visible state, owner control and operational confidence
-Public releases   -> clean docs, tests, security notes and practical use cases
-```
+![GitHub Actions](https://img.shields.io/badge/Actions-111827?style=flat-square&logo=githubactions)
 
 ## Contact
 
-Open to practical product builds, automation systems, SEO/growth experiments, Windows/Android apps and operator dashboards.
+Open to practical product builds, automation, and Windows/Android apps.
 
-- GitHub: [@13auth](https://github.com/13auth)
-- Web: [13auth.com](https://13auth.com)
-- X: [@13auth](https://x.com/13auth)
+- Web — [13auth.com](https://13auth.com)
+- X — [@13auth](https://x.com/13auth)
